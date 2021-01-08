@@ -1,5 +1,6 @@
 #include "btree.h"
 
+#include <algorithm>
 #include <map>
 
 #include "assert.h"
